@@ -14,3 +14,11 @@ provides a platform where:
 1. **Managers can easily visualize staff availability and workload, allowing them to make informed job assignments.
 2. **Staff can actively manage their availability and job preferences, and view their assignments in advance.
 3. **IT administrators can seamlessly manage staff and manager profiles within the system.
+
+## Team Members
+Eddie
+Ian
+Dai Xuan
+Gordon
+Siti
+Xavier

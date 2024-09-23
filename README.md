@@ -16,9 +16,12 @@ provides a platform where:
 3. **IT administrators can seamlessly manage staff and manager profiles within the system.
 
 ## Team Members
-Eddie
-Ian
-Dai Xuan
-Gordon
-Siti
-Xavier
+Essential role
+- Team lead* - Eddie
+- Full stack developer* - gordon
+- QA engineer* - Ian
+
+- Team lead (architect) - Eddie
+- Front end developer - dx
+- Backend developer - xav
+- UI UX designer - siti
